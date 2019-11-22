@@ -1,0 +1,128 @@
+2019-11-18 15:28:36.145  INFO 1502332 --- [main] com.mingkai.mmpt.start.MmptServiceMain   : Starting MmptServiceMain on HP with PID 1502332 (D:\software\workSpace\mmpt\mmpt-service\target\classes started by Administrator in D:\software\workSpace\mmpt)
+2019-11-18 15:28:36.146  INFO 1502332 --- [main] com.mingkai.mmpt.start.MmptServiceMain   : No active profile set, falling back to default profiles: default
+2019-11-18 15:28:37.000  WARN 1502332 --- [main] t.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.mingkai.mmpt.start]' package. Please check your configuration.
+2019-11-18 15:28:37.028  WARN 1502332 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.mingkai.mmpt.start]' package. Please check your configuration.
+2019-11-18 15:28:37.804  INFO 1502332 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-11-18 15:28:37.825  INFO 1502332 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-18 15:28:37.825  INFO 1502332 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-18 15:28:37.952  INFO 1502332 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/mmpt]   : Initializing Spring embedded WebApplicationContext
+2019-11-18 15:28:37.952  INFO 1502332 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1777 ms
+2019-11-18 15:28:39.009  INFO 1502332 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-18 15:28:39.099  INFO 1502332 --- [main] t.m.m.autoconfigure.MapperCacheDisabler  : Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2019-11-18 15:28:39.101  INFO 1502332 --- [main] t.m.m.autoconfigure.MapperCacheDisabler  : Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2019-11-18 15:28:39.101  INFO 1502332 --- [main] t.m.m.autoconfigure.MapperCacheDisabler  : Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2019-11-18 15:28:39.103  INFO 1502332 --- [main] t.m.m.autoconfigure.MapperCacheDisabler  : Clear EntityHelper entityTableMap cache.
+2019-11-18 15:28:39.207  INFO 1502332 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-11-18 15:28:39.306  INFO 1502332 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path '/mmpt'
+2019-11-18 15:28:39.309  INFO 1502332 --- [main] com.mingkai.mmpt.start.MmptServiceMain   : Started MmptServiceMain in 3.726 seconds (JVM running for 4.432)
+2019-11-18 15:28:47.040  INFO 1502332 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/mmpt]   : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-18 15:28:47.040  INFO 1502332 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-11-18 15:28:47.047  INFO 1502332 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-11-18 15:28:48.814  INFO 1502332 --- [http-nio-8090-exec-1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-11-18 15:29:01.250  INFO 1502332 --- [Thread-10] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-11-18 15:29:01.251  INFO 1502332 --- [Thread-10] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-18 15:29:01.254  WARN 1502332 --- [Thread-1] com.mingkai.mmpt.start.MmptServiceMain   : 系统退出......
+2019-11-18 15:29:01.263  INFO 1502332 --- [Thread-10] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-11-18 15:29:04.575  INFO 1503416 --- [main] com.mingkai.mmpt.start.MmptServiceMain   : Starting MmptServiceMain on HP with PID 1503416 (D:\software\workSpace\mmpt\mmpt-service\target\classes started by Administrator in D:\software\workSpace\mmpt)
+2019-11-18 15:29:04.576  INFO 1503416 --- [main] com.mingkai.mmpt.start.MmptServiceMain   : No active profile set, falling back to default profiles: default
+2019-11-18 15:29:05.317  WARN 1503416 --- [main] t.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.mingkai.mmpt.start]' package. Please check your configuration.
+2019-11-18 15:29:05.326  WARN 1503416 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.mingkai.mmpt.start]' package. Please check your configuration.
+2019-11-18 15:29:06.052  INFO 1503416 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2019-11-18 15:29:06.100  INFO 1503416 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-18 15:29:06.100  INFO 1503416 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-11-18 15:29:06.165  INFO 1503416 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/mmpt]   : Initializing Spring embedded WebApplicationContext
+2019-11-18 15:29:06.166  INFO 1503416 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1560 ms
+2019-11-18 15:29:06.855  INFO 1503416 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-18 15:29:06.960  INFO 1503416 --- [main] t.m.m.autoconfigure.MapperCacheDisabler  : Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2019-11-18 15:29:06.960  INFO 1503416 --- [main] t.m.m.autoconfigure.MapperCacheDisabler  : Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2019-11-18 15:29:06.961  INFO 1503416 --- [main] t.m.m.autoconfigure.MapperCacheDisabler  : Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2019-11-18 15:29:06.963  INFO 1503416 --- [main] t.m.m.autoconfigure.MapperCacheDisabler  : Clear EntityHelper entityTableMap cache.
+2019-11-18 15:29:07.061  INFO 1503416 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-11-18 15:29:07.128  INFO 1503416 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path '/mmpt'
+2019-11-18 15:29:07.131  INFO 1503416 --- [main] com.mingkai.mmpt.start.MmptServiceMain   : Started MmptServiceMain in 2.93 seconds (JVM running for 3.654)
+2019-11-18 15:29:12.585  INFO 1503416 --- [http-nio-8090-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/mmpt]   : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-18 15:29:12.585  INFO 1503416 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-11-18 15:29:12.591  INFO 1503416 --- [http-nio-8090-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-11-18 15:29:14.147  INFO 1503416 --- [http-nio-8090-exec-2] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-11-18 15:31:40.310  WARN 1503416 --- [Thread-1] com.mingkai.mmpt.start.MmptServiceMain   : 系统退出......
+2019-11-18 15:31:40.312  INFO 1503416 --- [Thread-8] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-11-18 15:31:40.313  INFO 1503416 --- [Thread-8] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-18 15:31:40.320  INFO 1503416 --- [Thread-8] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-11-18 15:31:44.552  INFO 1503972 --- [main] com.mingkai.mmpt.start.MmptServiceMain   : Starting MmptServiceMain on HP with PID 1503972 (D:\software\workSpace\mmpt\mmpt-service\target\classes started by Administrator in D:\software\workSpace\mmpt)
+2019-11-18 15:31:44.554  INFO 1503972 --- [main] com.mingkai.mmpt.start.MmptServiceMain   : No active profile set, falling back to default profiles: default
+2019-11-18 15:31:45.237  WARN 1503972 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.parsing.BeanDefinitionParsingException: Configuration problem: Failed to import bean definitions from URL location [classpath:spring/*.xml]
+Offending resource: class path resource [spring.xml]; nested exception is org.springframework.beans.factory.xml.XmlBeanDefinitionStoreException: Line 3 in XML document from file [D:\software\workSpace\mmpt\mmpt-service\target\classes\spring\logback.xml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 16; cvc-elt.1: 找不到元素 'configuration' 的声明。
+2019-11-18 15:31:45.245  INFO 1503972 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-11-18 15:31:45.253 ERROR 1503972 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.parsing.BeanDefinitionParsingException: Configuration problem: Failed to import bean definitions from URL location [classpath:spring/*.xml]
+Offending resource: class path resource [spring.xml]; nested exception is org.springframework.beans.factory.xml.XmlBeanDefinitionStoreException: Line 3 in XML document from file [D:\software\workSpace\mmpt\mmpt-service\target\classes\spring\logback.xml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 16; cvc-elt.1: 找不到元素 'configuration' 的声明。
+	at org.springframework.beans.factory.parsing.FailFastProblemReporter.error(FailFastProblemReporter.java:72) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.parsing.ReaderContext.error(ReaderContext.java:119) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.parsing.ReaderContext.error(ReaderContext.java:104) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.importBeanDefinitionResource(DefaultBeanDefinitionDocumentReader.java:240) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.parseDefaultElement(DefaultBeanDefinitionDocumentReader.java:191) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.parseBeanDefinitions(DefaultBeanDefinitionDocumentReader.java:176) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.doRegisterBeanDefinitions(DefaultBeanDefinitionDocumentReader.java:149) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.registerBeanDefinitions(DefaultBeanDefinitionDocumentReader.java:96) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.registerBeanDefinitions(XmlBeanDefinitionReader.java:513) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:393) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:336) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:304) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:188) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:224) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:195) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.lambda$loadBeanDefinitionsFromImportedResources$0(ConfigurationClassBeanDefinitionReader.java:358) ~[spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:684) ~[na:1.8.0_181]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsFromImportedResources(ConfigurationClassBeanDefinitionReader.java:325) ~[spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:144) ~[spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:117) ~[spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:327) ~[spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:232) ~[spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:275) ~[spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:95) ~[spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:705) ~[spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:531) ~[spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142) ~[spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at com.mingkai.mmpt.start.MmptServiceMain.main(MmptServiceMain.java:24) [classes/:na]
+Caused by: org.springframework.beans.factory.xml.XmlBeanDefinitionStoreException: Line 3 in XML document from file [D:\software\workSpace\mmpt\mmpt-service\target\classes\spring\logback.xml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 16; cvc-elt.1: 找不到元素 'configuration' 的声明。
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:404) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:336) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:304) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:188) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:224) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.importBeanDefinitionResource(DefaultBeanDefinitionDocumentReader.java:234) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	... 29 common frames omitted
+Caused by: org.xml.sax.SAXParseException: cvc-elt.1: 找不到元素 'configuration' 的声明。
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.error(ErrorHandlerWrapper.java:134) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:396) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:284) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.handleStartElement(XMLSchemaValidator.java:1901) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.startElement(XMLSchemaValidator.java:741) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:374) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl$NSContentDriver.scanRootElementHook(XMLNSDocumentScannerImpl.java:613) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:3132) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:852) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243) ~[na:1.8.0_181]
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339) ~[na:1.8.0_181]
+	at org.springframework.beans.factory.xml.DefaultDocumentLoader.loadDocument(DefaultDocumentLoader.java:77) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadDocument(XmlBeanDefinitionReader.java:434) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:392) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	... 34 common frames omitted
+
+2019-11-18 15:31:45.258  WARN 1503972 --- [Thread-1] com.mingkai.mmpt.start.MmptServiceMain   : 系统退出......
