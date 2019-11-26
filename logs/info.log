@@ -1,0 +1,70 @@
+[2019-11-26 10:14:58.913][INFO][Thread-14][o.s.s.c.ThreadPoolTaskScheduler|208]Shutting down ExecutorService 'taskScheduler'
+[2019-11-26 10:14:58.934][WARN][Thread-4][c.m.m.s.MmptServiceMain|25]系统退出......
+[2019-11-26 10:14:58.935][INFO][Thread-14][o.s.s.c.ThreadPoolTaskExecutor|208]Shutting down ExecutorService 'applicationTaskExecutor'
+[2019-11-26 10:15:02.343][INFO][main][c.m.m.s.MmptServiceMain|24] TfcLsServiceMain 服务开始启动......
+[2019-11-26 10:15:02.999][INFO][main][c.m.m.s.MmptServiceMain|50]Starting MmptServiceMain on HP with PID 44680 (D:\mygit\gitskills\mmpt\mmpt-service\target\classes started by Administrator in D:\mygit\gitskills)
+[2019-11-26 10:15:03.000][INFO][main][c.m.m.s.MmptServiceMain|675]No active profile set, falling back to default profiles: default
+[2019-11-26 10:15:03.612][WARN][main][t.m.s.m.ClassPathMapperScanner|146]No MyBatis mapper was found in '[com.mingkai.mmpt.start]' package. Please check your configuration.
+[2019-11-26 10:15:03.622][WARN][main][o.m.s.m.ClassPathMapperScanner|44]No MyBatis mapper was found in '[com.mingkai.mmpt.start]' package. Please check your configuration.
+[2019-11-26 10:15:04.120][INFO][main][o.s.b.w.e.t.TomcatWebServer|90]Tomcat initialized with port(s): 8090 (http)
+[2019-11-26 10:15:04.130][INFO][main][o.a.c.h.Http11NioProtocol|173]Initializing ProtocolHandler ["http-nio-8090"]
+[2019-11-26 10:15:04.137][INFO][main][o.a.c.c.StandardService|173]Starting service [Tomcat]
+[2019-11-26 10:15:04.137][INFO][main][o.a.c.c.StandardEngine|173]Starting Servlet engine: [Apache Tomcat/9.0.17]
+[2019-11-26 10:15:04.208][INFO][main][o.a.c.c.C.[.[.[/mmpt]|173]Initializing Spring embedded WebApplicationContext
+[2019-11-26 10:15:04.208][INFO][main][o.s.w.c.ContextLoader|296]Root WebApplicationContext: initialization completed in 1163 ms
+[2019-11-26 10:15:04.782][WARN][Thread-4][c.m.m.s.MmptServiceMain|25]系统退出......
+[2019-11-26 10:15:43.140][INFO][main][c.m.m.s.MmptServiceMain|24] TfcLsServiceMain 服务开始启动......
+[2019-11-26 10:15:43.532][INFO][main][c.m.m.s.MmptServiceMain|50]Starting MmptServiceMain on HP with PID 124220 (D:\mygit\gitskills\mmpt\mmpt-service\target\classes started by Administrator in D:\mygit\gitskills)
+[2019-11-26 10:15:43.532][INFO][main][c.m.m.s.MmptServiceMain|675]No active profile set, falling back to default profiles: default
+[2019-11-26 10:15:44.225][WARN][main][t.m.s.m.ClassPathMapperScanner|146]No MyBatis mapper was found in '[com.mingkai.mmpt.start]' package. Please check your configuration.
+[2019-11-26 10:15:44.235][WARN][main][o.m.s.m.ClassPathMapperScanner|44]No MyBatis mapper was found in '[com.mingkai.mmpt.start]' package. Please check your configuration.
+[2019-11-26 10:15:44.723][INFO][main][o.s.b.w.e.t.TomcatWebServer|90]Tomcat initialized with port(s): 8090 (http)
+[2019-11-26 10:15:44.734][INFO][main][o.a.c.h.Http11NioProtocol|173]Initializing ProtocolHandler ["http-nio-8090"]
+[2019-11-26 10:15:44.747][INFO][main][o.a.c.c.StandardService|173]Starting service [Tomcat]
+[2019-11-26 10:15:44.747][INFO][main][o.a.c.c.StandardEngine|173]Starting Servlet engine: [Apache Tomcat/9.0.17]
+[2019-11-26 10:15:44.883][INFO][main][o.a.c.c.C.[.[.[/mmpt]|173]Initializing Spring embedded WebApplicationContext
+[2019-11-26 10:15:44.883][INFO][main][o.s.w.c.ContextLoader|296]Root WebApplicationContext: initialization completed in 1307 ms
+[2019-11-26 10:15:45.523][INFO][main][o.s.s.c.ThreadPoolTaskExecutor|171]Initializing ExecutorService 'applicationTaskExecutor'
+[2019-11-26 10:15:45.592][INFO][main][t.m.m.a.MapperCacheDisabler|60]Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+[2019-11-26 10:15:45.593][INFO][main][t.m.m.a.MapperCacheDisabler|60]Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+[2019-11-26 10:15:45.593][INFO][main][t.m.m.a.MapperCacheDisabler|60]Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+[2019-11-26 10:15:45.595][INFO][main][t.m.m.a.MapperCacheDisabler|83]Clear EntityHelper entityTableMap cache.
+[2019-11-26 10:15:45.677][INFO][main][o.s.s.c.ThreadPoolTaskScheduler|171]Initializing ExecutorService 'taskScheduler'
+[2019-11-26 10:15:45.727][INFO][main][o.a.c.h.Http11NioProtocol|173]Starting ProtocolHandler ["http-nio-8090"]
+[2019-11-26 10:15:45.747][INFO][main][o.s.b.w.e.t.TomcatWebServer|204]Tomcat started on port(s): 8090 (http) with context path '/mmpt'
+[2019-11-26 10:15:45.750][INFO][main][c.m.m.s.MmptServiceMain|59]Started MmptServiceMain in 2.553 seconds (JVM running for 3.125)
+[2019-11-26 10:16:28.282][INFO][http-nio-8090-exec-1][o.a.c.c.C.[.[.[/mmpt]|173]Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-11-26 10:16:28.282][INFO][http-nio-8090-exec-1][o.s.w.s.DispatcherServlet|524]Initializing Servlet 'dispatcherServlet'
+[2019-11-26 10:16:28.289][INFO][http-nio-8090-exec-1][o.s.w.s.DispatcherServlet|546]Completed initialization in 6 ms
+[2019-11-26 10:16:45.469][INFO][http-nio-8090-exec-1][c.m.m.c.FileController|36]uploadFile start
+[2019-11-26 10:18:05.694][INFO][http-nio-8090-exec-2][c.m.m.c.FileController|36]uploadFile start
+[2019-11-26 10:19:09.009][WARN][Thread-4][c.m.m.s.MmptServiceMain|25]系统退出......
+[2019-11-26 10:19:09.010][INFO][Thread-14][o.s.s.c.ThreadPoolTaskScheduler|208]Shutting down ExecutorService 'taskScheduler'
+[2019-11-26 10:19:09.011][INFO][Thread-14][o.s.s.c.ThreadPoolTaskExecutor|208]Shutting down ExecutorService 'applicationTaskExecutor'
+[2019-11-26 10:19:12.156][INFO][main][c.m.m.s.MmptServiceMain|24] TfcLsServiceMain 服务开始启动......
+[2019-11-26 10:19:12.726][INFO][main][c.m.m.s.MmptServiceMain|50]Starting MmptServiceMain on HP with PID 124128 (D:\mygit\gitskills\mmpt\mmpt-service\target\classes started by Administrator in D:\mygit\gitskills)
+[2019-11-26 10:19:12.727][INFO][main][c.m.m.s.MmptServiceMain|675]No active profile set, falling back to default profiles: default
+[2019-11-26 10:19:13.384][WARN][main][t.m.s.m.ClassPathMapperScanner|146]No MyBatis mapper was found in '[com.mingkai.mmpt.start]' package. Please check your configuration.
+[2019-11-26 10:19:13.394][WARN][main][o.m.s.m.ClassPathMapperScanner|44]No MyBatis mapper was found in '[com.mingkai.mmpt.start]' package. Please check your configuration.
+[2019-11-26 10:19:13.900][INFO][main][o.s.b.w.e.t.TomcatWebServer|90]Tomcat initialized with port(s): 8090 (http)
+[2019-11-26 10:19:13.910][INFO][main][o.a.c.h.Http11NioProtocol|173]Initializing ProtocolHandler ["http-nio-8090"]
+[2019-11-26 10:19:13.918][INFO][main][o.a.c.c.StandardService|173]Starting service [Tomcat]
+[2019-11-26 10:19:13.918][INFO][main][o.a.c.c.StandardEngine|173]Starting Servlet engine: [Apache Tomcat/9.0.17]
+[2019-11-26 10:19:14.069][INFO][main][o.a.c.c.C.[.[.[/mmpt]|173]Initializing Spring embedded WebApplicationContext
+[2019-11-26 10:19:14.069][INFO][main][o.s.w.c.ContextLoader|296]Root WebApplicationContext: initialization completed in 1291 ms
+[2019-11-26 10:19:14.727][INFO][main][o.s.s.c.ThreadPoolTaskExecutor|171]Initializing ExecutorService 'applicationTaskExecutor'
+[2019-11-26 10:19:14.798][INFO][main][t.m.m.a.MapperCacheDisabler|60]Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+[2019-11-26 10:19:14.799][INFO][main][t.m.m.a.MapperCacheDisabler|60]Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+[2019-11-26 10:19:14.799][INFO][main][t.m.m.a.MapperCacheDisabler|60]Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+[2019-11-26 10:19:14.801][INFO][main][t.m.m.a.MapperCacheDisabler|83]Clear EntityHelper entityTableMap cache.
+[2019-11-26 10:19:14.878][INFO][main][o.s.s.c.ThreadPoolTaskScheduler|171]Initializing ExecutorService 'taskScheduler'
+[2019-11-26 10:19:14.932][INFO][main][o.a.c.h.Http11NioProtocol|173]Starting ProtocolHandler ["http-nio-8090"]
+[2019-11-26 10:19:14.952][INFO][main][o.s.b.w.e.t.TomcatWebServer|204]Tomcat started on port(s): 8090 (http) with context path '/mmpt'
+[2019-11-26 10:19:14.954][INFO][main][c.m.m.s.MmptServiceMain|59]Started MmptServiceMain in 2.717 seconds (JVM running for 3.546)
+[2019-11-26 10:24:01.767][INFO][http-nio-8090-exec-1][o.a.c.c.C.[.[.[/mmpt]|173]Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-11-26 10:24:01.768][INFO][http-nio-8090-exec-1][o.s.w.s.DispatcherServlet|524]Initializing Servlet 'dispatcherServlet'
+[2019-11-26 10:24:01.774][INFO][http-nio-8090-exec-1][o.s.w.s.DispatcherServlet|546]Completed initialization in 6 ms
+[2019-11-26 10:24:04.655][INFO][http-nio-8090-exec-1][c.m.m.c.FileController|36]uploadFile start
+[2019-11-26 10:26:05.467][WARN][Thread-4][c.m.m.s.MmptServiceMain|25]系统退出......
+[2019-11-26 10:26:05.468][INFO][Thread-14][o.s.s.c.ThreadPoolTaskScheduler|208]Shutting down ExecutorService 'taskScheduler'
+[2019-11-26 10:26:05.469][INFO][Thread-14][o.s.s.c.ThreadPoolTaskExecutor|208]Shutting down ExecutorService 'applicationTaskExecutor'

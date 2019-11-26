@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/gitskills.iml" filepath="$PROJECT_DIR$/.idea/gitskills.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mmpt-service/mmpt-service.iml" filepath="$PROJECT_DIR$/mmpt-service/mmpt-service.iml" />
     </modules>
   </component>
 </project>
